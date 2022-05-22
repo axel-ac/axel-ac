@@ -6,8 +6,8 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a  href="https://www.linkedin.com/in/abdullah-ceylan-27718b231/" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/abdllhceylan" title="Twitter Profile"><img width="22" src="img/Twitter-logo.svg.png"> Twitter</a></code>
+  <code><a  href="https://www.linkedin.com/in/abdullah-ceylan-27718b231/" title="LinkedIn Profile"><img width="22" src="img/linkedin.svg" target="_blank"> LinkedIn</a></code>
+  <code><a href="https://twitter.com/abdllhceylan" title="Twitter Profile"><img width="22" src="img/Twitter-logo.svg.png" target="_blank"> Twitter</a></code>
 </h5>
 <br>
 <p align="center">
