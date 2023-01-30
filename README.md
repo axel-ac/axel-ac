@@ -2,8 +2,7 @@
 
 ## 👋 Hi there, I'm Abdullah
 
-<font color="pink"> ![CatLaptopGIF](https://user-images.githubusercontent.com/102467587/215555586-03c3e804-a133-4579-81d8-69ee0869edfd.gif)
- I'm a Front-End Developer. </font>
+<font color="pink"> ✔️ I'm a Front-End Developer. </font>
 </br>
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
@@ -108,11 +107,11 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=szrokmn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=axel-ac&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=szrokmn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-ac&theme=blue-green"
      alt=""
      /> <br/>
 </div>
