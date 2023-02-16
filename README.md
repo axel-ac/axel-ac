@@ -97,7 +97,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Sass Website Page Design](https://axel-ac.github.io/Sass-project/) <h3>[Repo](https://github.com/axel-ac/Sass-project)</h3> | Sass Website Page Design |![Sass-project](https://user-images.githubusercontent.com/102467587/219283604-7709569d-e7fa-4e46-8e3f-55b563f9d79c.gif)
+[Sass Website Page Design](https://axel-ac.github.io/Sass-project/) <h3>[Repo](https://github.com/axel-ac/Sass-project)</h3> | Sass, Scss |![Sass-project](https://user-images.githubusercontent.com/102467587/219283604-7709569d-e7fa-4e46-8e3f-55b563f9d79c.gif)
 
 
 
