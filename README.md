@@ -19,8 +19,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahceylan" alt="abdullahceylan"/></p>
 
 </br>
-</br>
-</br>
 
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
@@ -93,6 +91,16 @@
 </div>
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
+
+## :star2: My Projects: 
+
+<a href="https://github.com/axel-ac/React-Projects" target="_blank"  style="text-decoration: none;margin-right: 25px;  "><img src="./img/react.png" style="height:50px; width: 125px;" ></a>
+  <a href="https://github.com/axel-ac/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/java.png" style="height:50px; width: 175px;" ></a>
+  <a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html.png" style="height:50px; width:150px;" ></a>
+  <a href="https://github.com/axel-ac/Django-Projects" target="_blank" style="text-decoration: none;"><img src="./img/django.png" style="height:50px; width: 125px;" ></a>
+
+</br>
+
 <h2 align="center">My Projects</h2>
 
 ###
