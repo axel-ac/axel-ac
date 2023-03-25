@@ -61,18 +61,6 @@
         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
         alt="Python"
       />
-<img
-        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-        alt="Django"
-      />
-<img
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
-        alt="Nodejs"
-      />
-<img
-        src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-        alt="PostgreSQL"
-      />
 <br>
 <img
         src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
@@ -97,11 +85,10 @@
 <a href="https://github.com/axel-ac/React-Projects" target="_blank"  style="text-decoration: none;margin-right: 25px;  "><img src="./img/react.png" style="height:50px; width: 125px;" ></a>
   <a href="https://github.com/axel-ac/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/java.png" style="height:50px; width: 175px;" ></a>
   <a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html.png" style="height:50px; width:150px;" ></a>
-  <a href="https://github.com/axel-ac/Django-Projects" target="_blank" style="text-decoration: none;"><img src="./img/django.png" style="height:50px; width: 125px;" ></a>
 
 </br>
 
-<h2 align="center">My Projects</h2>
+<h2 align="center">My Top Projects</h2>
 
 ###
 
