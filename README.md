@@ -10,7 +10,7 @@
 </br>
 <font color="pink">☕ Coffee is how I keep up with code</font>
 
-#### 📬 Connect with me:
+## :man::woman: Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahceylann/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:abdullahceylan.axel@gmail.com)
@@ -62,11 +62,6 @@
         alt="Python"
       />
 <br>
-<img
-        src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-        alt="Heroku"
-      />
-</br>
 <img 
       src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
       alt="GIT"
