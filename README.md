@@ -77,10 +77,10 @@
 
 ## :star2: My Projects: 
 
-<a href="https://github.com/axel-ac/React-Projects" target="_blank"  style="text-decoration: none;margin-right: 25px;  "><img src="./img/react.png" style="height:50px; width: 125px;" ></a>
-<a href="https://github.com/axel-ac/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/java.png" style="height:50px; width: 175px;" ></a>
-<a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html.png" style="height:50px; width:150px;" ></a>
-<a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript-Questions.png" style="height:50px; width:150px;" ></a>
+<a href="https://github.com/axel-ac/React-Projects" target="_blank"  style="text-decoration: none;margin-right: 25px;  "><img src="./img/React.png" style="height:50px; width: 125px;" ></a>
+<a href="https://github.com/axel-ac/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript.png" style="height:50px; width: 175px;" ></a>
+<a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/HTML-CSS.png" style="height:50px; width:150px;" ></a>
+<a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS.png" style="height:50px; width:150px;" ></a>
 
 </br>
 
