@@ -80,7 +80,7 @@
 <a href="https://github.com/axel-ac/React-Projects" target="_blank"  style="text-decoration: none;margin-right: 25px;  "><img src="./img/react.png" style="height:50px; width: 125px;" ></a>
 <a href="https://github.com/axel-ac/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/java.png" style="height:50px; width: 175px;" ></a>
 <a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html.png" style="height:50px; width:150px;" ></a>
-<a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="" style="height:50px; width:150px;" >JavaScript-Questions</a>
+<a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript-Questions.png" style="height:50px; width:150px;" ></a>
 
 </br>
 
