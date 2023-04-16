@@ -79,9 +79,9 @@
 
 <a href="https://github.com/axel-ac/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/react-p.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/axel-ac/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/js-p.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html-css.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
-<a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/js-q.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/js.png" style="height:60px; width: fit-content;" ></a>
 
 </br>
 
