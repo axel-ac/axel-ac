@@ -82,7 +82,6 @@
 <a href="https://github.com/axel-ac/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
 <a href="https://github.com/axel-ac/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/js.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/axel-ac/dersler" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/js.png" style="height:60px; width: fit-content;" ></a>
 
 </br>
 
